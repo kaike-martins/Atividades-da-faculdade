@@ -22,5 +22,6 @@ Cada pasta representa uma ferramenta ou linguagem trabalhada em aula, com exerc�
 
 **Kaike Martins** — Estudante de Ciência de Dados · FMU São Paulo
 
-[LinkedIn](https://www.linkedin.com/in/kaikemarttins) · [GitHub](https://github.com/SoullMk) · [Currículo](Adiciona currículo)
+[LinkedIn](https://www.linkedin.com/in/kaikemarttins) · [GitHub](https://github.com/SoullMk) · [Currículo](./Curriculo_Kaike_Martins.pdf)
+
 
